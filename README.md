@@ -1,2 +1,2 @@
 # eyes-ears-mouth-nose
-YouTube Player + JavaScript Webcam experiment
+YouTube Player + JavaScript Webcam experiment.
